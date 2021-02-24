@@ -8,7 +8,8 @@
 - 😄 Pronouns: *Friend/Buddy*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
 
-- *My stats
+- *Stats
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=KumarSanskar)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSanskar&layout=compact)](https://github.com/KumarSanskar/github-readme-stats)
