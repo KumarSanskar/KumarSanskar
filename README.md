@@ -1,4 +1,4 @@
-### Hey there, I'm *Kumar Sanskar 👋.
+### Hey there, I'm Kumar Sanskar 👋.
 
 
 - 🎯 I’m currently working on improving myself.
