@@ -1,12 +1,18 @@
-### *Hey there 👋, I'm Kumar Sanskar.
+### *Hey there, I'm Kumar Sanskar 👋.
 
 
 - 🎯 I’m currently working on improving myself.
-- ☕ I’m currently learning Java.
+- 📙 I’m currently learning Java ☕.
 - 🤔 I’m looking for help with "Data Structures and Algorithms in Java".
-- 📧 How to reach me: kumar.sanskar_cs19@gla.ac.in
 - 😄 Pronouns: *Friend/Buddy*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
+- ### Connect with me:
+
+[<img align="left" alt="KumarSanskar | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[instagram]: https://instagram.com/kumarsanskar_2001
 
 - My Stats:-
 
