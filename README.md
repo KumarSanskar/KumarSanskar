@@ -1,4 +1,4 @@
-### *Hi there 👋, I'm Kumar Sanskar.
+### *Hey there 👋, I'm Kumar Sanskar.
 
 
 - 🎯 I’m currently working on improving myself.
@@ -8,7 +8,7 @@
 - 😄 Pronouns: *Friend/Buddy*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
 
-- *My Stats:-
+- My Stats:-
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=KumarSanskar)](https://github.com/anuraghazra/github-readme-stats)
 
