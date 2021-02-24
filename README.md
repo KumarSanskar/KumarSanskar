@@ -3,11 +3,12 @@
 
 - 🎯 I’m currently working on improving myself.
 - ☕ I’m currently learning Java.
-- 🤔 I’m looking for help with Data Structures and Algorithms with Java.
+- 🤔 I’m looking for help with "Data Structures and Algorithms in Java".
 - 📧 How to reach me: kumar.sanskar_cs19@gla.ac.in
-- 😄 Pronouns: *Friend/Buudy*
+- 😄 Pronouns: *Friend/Buddy*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
 
+- *My stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=KumarSanskar)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSanskar&layout=compact)](https://github.com/KumarSanskar/github-readme-stats)
