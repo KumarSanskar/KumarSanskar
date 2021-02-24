@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - ☕ I’m currently learning Java.
 - 🤔 I’m looking for help with Data Structures and Algorithms with Java.
 - 📫 How to reach me: kumar.sanskar_cs19@gla.ac.in
-- 😄 Pronouns: *++Friend/Buudy++*
+- 😄 Pronouns: # *Friend/Buudy*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
