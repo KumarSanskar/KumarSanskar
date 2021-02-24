@@ -1,4 +1,4 @@
-### *Hey there, I'm Kumar Sanskar 👋.
+### Hey there, I'm Kumar Sanskar 👋.
 
 
 - 🎯 I’m currently working on improving myself.
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
 - ### Connect with me:
 
-[<img align="left" alt="KumarSanskar | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KumarSanskar | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
