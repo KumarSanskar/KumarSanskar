@@ -4,7 +4,7 @@
 - 🎯 I’m currently working on improving myself.
 - 📙 I’m currently learning Java ☕.
 - 🤔 I’m looking for help with "Data Structures and Algorithms in Java".
-- 😄 Pronouns: *Friend/Buddy*
+- 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: - Have a sweet tooth 🦷🍫.
 >
 - My Stats:-
